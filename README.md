@@ -1,8 +1,8 @@
 # Website Name : MediCare
 # Live Site: https://medicare-1bda7.web.app/
-### This medical facilitiy provider website. All kinds of facility,we provided
+### This is medical facilitiy provider website. All kinds of facility,we provided
 ## Website Feature
-* World's best doctor
+* Worlds best doctor
 * Best service
 * World class treatment
 * 24/7 Security
